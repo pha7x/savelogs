@@ -1,0 +1,11 @@
+C:\Users\Positivo\source\repos\salva log\salva log\bin\Debug\salva log.exe.config
+C:\Users\Positivo\source\repos\salva log\salva log\bin\Debug\salva log.exe
+C:\Users\Positivo\source\repos\salva log\salva log\bin\Debug\salva log.pdb
+C:\Users\Positivo\source\repos\salva log\salva log\obj\Debug\salva log.csproj.AssemblyReference.cache
+C:\Users\Positivo\source\repos\salva log\salva log\obj\Debug\salva_log.Properties.Resources.resources
+C:\Users\Positivo\source\repos\salva log\salva log\obj\Debug\salva log.csproj.GenerateResource.cache
+C:\Users\Positivo\source\repos\salva log\salva log\obj\Debug\salva log.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\source\repos\salva log\salva log\obj\Debug\salva log.exe
+C:\Users\Positivo\source\repos\salva log\salva log\obj\Debug\salva log.pdb
+C:\Users\Positivo\source\repos\salva log\salva log\obj\Debug\salva log.csproj.SuggestedBindingRedirects.cache
+C:\Users\Positivo\source\repos\salva log\salva log\obj\Debug\salva_log.form12.resources
